@@ -1,0 +1,51 @@
+OrderID,CO2e,Product,Group,Urgency,Quantity,Destination,Supplier
+ORD92,62.91,Printer Toner,Supplies,Urgent,12,Chicago,WorldSupply
+ORD39,52.26,Keyboard,Electronics,Standard,8,New York,TechFlow
+ORD25,86.27,Paper Ream,Supplies,Urgent,27,Tokyo,WorldSupply
+ORD14,70.0,Office Chair,Furniture,Standard,4,New York,FurniPro
+ORD46,115.4,Laptop,Electronics,Urgent,7,Detroit,TechFlow
+ORD42,136.1,Desk,Furniture,Urgent,4,Singapore,GlobalTech
+ORD28,118.3,Monitor,Electronics,Standard,9,Berlin,GlobalTech
+ORD24,70.9,Printer Toner,Supplies,Standard,18,London,WorldSupply
+ORD80,40.8,Keyboard,Electronics,Urgent,6,Chicago,TechFlow
+ORD22,46.8,Paper Ream,Supplies,Standard,22,Paris,WorldSupply
+ORD86,184.5,Laptop,Electronics,Urgent,10,Tokyo,GlobalTech
+ORD65,97.4,Laptop,Electronics,Standard,6,Chicago,GlobalTech
+ORD15,58.3,Keyboard,Electronics,Urgent,10,Berlin,TechFlow
+ORD95,113.6,Office Chair,Furniture,Standard,7,New York,FurniPro
+ORD88,55.7,Office Chair,Furniture,Standard,3,Paris,FurniPro
+ORD38,63.8,Monitor,Electronics,Standard,4,Tokyo,GlobalTech
+ORD40,39.1,Paper Ream,Supplies,Standard,17,Paris,WorldSupply
+ORD75,189.5,Desk,Furniture,Standard,7,Shanghai,GlobalTech
+ORD84,98.2,Office Chair,Furniture,Standard,6,Detroit,FurniPro
+ORD36,165.6,Laptop,Electronics,Standard,10,Singapore,GlobalTech
+ORD64,66.5,Printer Toner,Supplies,Urgent,11,New York,WorldSupply
+ORD97,30.2,Paper Ream,Supplies,Standard,14,Chicago,WorldSupply
+ORD68,24.8,Keyboard,Electronics,Standard,3,Tokyo,GlobalTech
+ORD94,89.8,Laptop,Electronics,Standard,5,Tokyo,GlobalTech
+ORD62,95.4,Laptop,Electronics,Urgent,5,London,TechFlow
+ORD66,100.4,Printer Toner,Supplies,Urgent,20,Berlin,WorldSupply
+ORD11,88.3,Printer Toner,Supplies,Standard,25,Detroit,WorldSupply
+ORD59,126.2,Laptop,Electronics,Urgent,8,Detroit,TechFlow
+ORD73,74.5,Laptop,Electronics,Standard,4,Shanghai,GlobalTech
+ORD21,103.7,Printer Toner,Supplies,Standard,27,Paris,WorldSupply
+ORD55,99.9,Printer Toner,Supplies,Standard,26,Berlin,WorldSupply
+ORD82,85.8,Printer Toner,Supplies,Standard,22,Paris,WorldSupply
+ORD32,116.0,Desk,Furniture,Standard,4,Singapore,GlobalTech
+ORD91,108.9,Monitor,Electronics,Standard,10,Chicago,TechFlow
+ORD20,120.9,Desk,Furniture,Standard,5,Tokyo,WorldSupply
+ORD90,64.4,Paper Ream,Supplies,Urgent,21,Paris,WorldSupply
+ORD70,41.4,Keyboard,Electronics,Urgent,4,London,TechFlow
+ORD87,64.0,Laptop,Electronics,Standard,4,Berlin,WorldSupply
+ORD17,68.1,Keyboard,Electronics,Urgent,11,Tokyo,GlobalTech
+ORD16,55.5,Paper Ream,Supplies,Urgent,18,Chicago,WorldSupply
+ORD35,72.5,Printer Toner,Supplies,Standard,17,Shanghai,WorldSupply
+ORD61,159.5,Office Chair,Furniture,Urgent,7,Singapore,GlobalTech
+ORD33,114.0,Monitor,Electronics,Standard,9,Chicago,GlobalTech
+ORD67,52.2,Monitor,Electronics,Standard,4,London,TechFlow
+ORD49,166.6,Desk,Furniture,Standard,7,Singapore,WorldSupply
+ORD27,91.0,Printer Toner,Supplies,Standard,23,Shanghai,WorldSupply
+ORD13,110.1,Laptop,Electronics,Standard,8,Chicago,TechFlow
+ORD81,142.7,Monitor,Electronics,Urgent,9,Singapore,GlobalTech
+ORD45,117.5,Laptop,Electronics,Urgent,7,Chicago,TechFlow
+ORD18,180.4,Laptop,Electronics,Urgent,10,Shanghai,GlobalTech
