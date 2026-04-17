@@ -11,7 +11,7 @@
 - SC2 Outputs: RPT-1, GPT-5 (ML), GPT-5 Standalone under SC2 Predictive Maintainence/SC2_output/
 
 ## Artifacts & Traceability
-- Comparison workbook: [comparison_RPT1_GPT5ML_GPT5standalone.xlsx](comparison_RPT1_GPT5ML_GPT5standalone.xlsx) (original) and [comparison_RPT1_GPT5ML_GPT5standalone_v2.xlsx](comparison_RPT1_GPT5ML_GPT5standalone_v2.xlsx) (with "How to read this workbook" on the Summary sheet)
+- Comparison workbook: [comparison_RPT1_GPT5ML_GPT5standalone_v2.xlsx](comparison_RPT1_GPT5ML_GPT5standalone_v2.xlsx) (includes "How to read this workbook" on the Summary sheet)
 
 - SC1 — Equipment Sourcing
 	- Input: [SC1 Equipment Sourcing/SC1_input data/Equipment data.csv](SC1%20Equipment%20Sourcing/SC1_input%20data/Equipment%20data.csv)

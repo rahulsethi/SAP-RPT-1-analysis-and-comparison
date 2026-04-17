@@ -29,9 +29,7 @@ It produces predictions, per‑row explanations, a comparison workbook, and writ
   - Predictions: [SC2 Predictive Maintainence/SC2_output/GPT-5 output/predictive_maintainence GPT5_standalone output.csv](SC2%20Predictive%20Maintainence/SC2_output/GPT-5%20output/predictive_maintainence%20GPT5_standalone%20output.csv)
   - Explanation: [SC2 Predictive Maintainence/SC2_output/GPT-5 output/predictive_maintainence GPT5_standalone output_explanation.csv](SC2%20Predictive%20Maintainence/SC2_output/GPT-5%20output/predictive_maintainence%20GPT5_standalone%20output_explanation.csv)
 
-- Comparison workbooks:
-  - Original: [comparison_RPT1_GPT5ML_GPT5standalone.xlsx](comparison_RPT1_GPT5ML_GPT5standalone.xlsx)
-  - v2 (with guidance): [comparison_RPT1_GPT5ML_GPT5standalone_v2.xlsx](comparison_RPT1_GPT5ML_GPT5standalone_v2.xlsx)
+- Comparison workbook (latest): [comparison_RPT1_GPT5ML_GPT5standalone_v2.xlsx](comparison_RPT1_GPT5ML_GPT5standalone_v2.xlsx)
 - Analyses:
   - Summary: [Summary.md](Summary.md)
   - Full analysis: [analysis.md](analysis.md)
