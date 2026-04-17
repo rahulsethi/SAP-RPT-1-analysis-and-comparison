@@ -33,7 +33,7 @@ It produces predictions, per‑row explanations, a comparison workbook, and writ
   - Original: [comparison_RPT1_GPT5ML_GPT5standalone.xlsx](comparison_RPT1_GPT5ML_GPT5standalone.xlsx)
   - v2 (with guidance): [comparison_RPT1_GPT5ML_GPT5standalone_v2.xlsx](comparison_RPT1_GPT5ML_GPT5standalone_v2.xlsx)
 - Analyses:
-  - Manager‑readable: [Summary.md](Summary.md)
+  - Summary: [Summary.md](Summary.md)
   - Full analysis: [analysis.md](analysis.md)
 
 ## Methods
